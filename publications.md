@@ -4,15 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Generalized Multiple Zeta Values over number fields I. Preprint 2018. [arXiv:1809.07370](https://arxiv.org/abs/1809.07370)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Arithmetic of values of L-functions and generalized multiple zeta values over number fields]((https://webusers.imj-prg.fr/~xiaohua.ai/Ai_thesis.pdf)
+). Thesis of Sorbonne Université, 2017. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+[Adelic Asai functions and adelic Kronecker limit formulas](https://webusers.imj-prg.fr/~xiaohua.ai/research/Eisenstein_Asai.pdf). Preprint, 2015. 
